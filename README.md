@@ -26,10 +26,6 @@
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juniortada&theme=tokyonight" alt="Repos per language" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juniortada&theme=tokyonight" alt="Most commit language" /></td>
-  </tr>
-  <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juniortada&theme=tokyonight" alt="Stats" /></td>
-    <td></td>
   </tr>
 </table>
